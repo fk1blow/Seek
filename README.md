@@ -10,13 +10,16 @@
 	
 	<p>
 		Seek is a mixture of functionalities borrowed from some production-ready frameworks(no, not from rails) and currently includes:
-		- Routing(similar to Kohana)
-		- Basic Default Controller and filters
-		- Views(based on <a href="https://github.com/sstephenson/eco">eco</a>)
-		- javascript class system(based on <a href="https://github.com/SamuraiJack/Task-Joose-NodeJS/">Task-Joose-NodeJS</a>)
-		- no global namespace pollution(only one object is global - Seek)
-		- and more to come...
 	</p>
+	
+	<ul>
+		<li>- Routing(similar to Django and Kohana)</li>
+		<li>- Basic Controllers and filters</li>
+		<li>- Views(based on <a href="https://github.com/sstephenson/eco">eco</a>)</li>
+		<li>- javascript class system(based on <a href="https://github.com/SamuraiJack/Task-Joose-NodeJS/">Task-Joose-NodeJS</a>)</li>
+		<li>- no global namespace pollution(only one object is global - Seek)</li>
+		<li>- and more to come...</li>
+	</ul>
 	
 	
 	<h2>INSTALATTION</h2>
