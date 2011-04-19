@@ -34,7 +34,7 @@
 	
 	<ul>
 		<li>Task-Joose-NodeJS - <a href="https://github.com/SamuraiJack/Task-Joose-NodeJS/">homepage</a></li>
-		<li>Connect - <a href="https://github.com/joyent/node/wiki/modules">homepage</a></li>
+		<li>Connect - <a href="https://github.com/senchalabs/Connect">homepage</a></li>
 		<li>eco - <a href="https://github.com/sstephenson/eco">homepage</a></li>
 	</ul>
 </div>
