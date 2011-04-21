@@ -1,0 +1,28 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<meta charset='utf-8'> 
+	<title>A great title...</title>
+	<style>
+		* {
+			font-family:Arial, Verdana, sans-serif;
+			font-size:1em;
+		}
+	</style>
+</head>
+
+<body>
+	<h2>Testing Seek</h2>
+	
+	
+	<div>
+		<%= @content_for_layout %>
+	</div>
+	
+	<div>
+		<%= Seek.View.Renderer.render('playlists/another_view.html.ejs') %>
+	</div>
+</body>
+</html>
+    
+
