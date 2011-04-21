@@ -22,7 +22,7 @@
 	</ul>
 	
 	
-	<h2>INSTALATTION</h2>
+	<h2>INSTALLATION</h2>
 	
 	<p>
 		Seek can be installed using npm - for the moment it will only be available from here. When i'll decide that Seek is ready, then it will become available via npm install.
