@@ -18,6 +18,7 @@
 		<li>Views(based on <a href="https://github.com/sstephenson/eco">eco</a>)</li>
 		<li>javascript class system(based on <a href="https://github.com/SamuraiJack/Task-Joose-NodeJS/">Task-Joose-NodeJS</a>)</li>
 		<li>no global namespace pollution(only one object is global - Seek)</li>
+                <li>Error handling</li>
 		<li>and more to come...</li>
 	</ul>
 	
