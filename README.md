@@ -15,7 +15,7 @@
 	<ul>
 		<li>Routing(similar to Django and Kohana)</li>
 		<li>Basic Controllers and filters</li>
-		<li>Views(based on <a href="https://github.com/sstephenson/eco">eco</a>)</li>
+		<li>Views(based on <a href="https://github.com/visionmedia/ejs">ejs</a>)</li>
 		<li>basic javascript class system</li>
 		<li>no global namespace pollution(only one object is global - Packagr, which adds the possibility to load different modules from a specific location)</li>
                 <li>Error handling</li>
