@@ -16,11 +16,7 @@
 	
 	
 	<div>
-		<%= @content_for_layout %>
-	</div>
-	
-	<div>
-		<%= Seek.View.Renderer.render('playlists/another_view.html.ejs') %>
+		<%- content_for_layout %>
 	</div>
 </body>
 </html>

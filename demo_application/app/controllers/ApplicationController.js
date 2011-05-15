@@ -1,7 +1,13 @@
-Class('ApplicationController', {
-	isa: Seek.ActionModule.BaseController,
+var BaseController = Packagr.from('SeekControllers').load('Base');
+
+
+var ApplicationController = Klass({
+	Extends: BaseController,
 	
-	has: {},
+	attributes: { },
 	
-	methods: {}
+	methods: { }
 });
+
+
+module.exports = ApplicationController;
