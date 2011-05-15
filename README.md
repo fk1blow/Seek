@@ -15,9 +15,9 @@
 	<ul>
 		<li>Routing(similar to Django and Kohana)</li>
 		<li>Basic Controllers and filters</li>
-		<li>Views(based on <a href="https://github.com/sstephenson/eco">eco</a>)</li>
-		<li>javascript class system(based on <a href="https://github.com/SamuraiJack/Task-Joose-NodeJS/">Task-Joose-NodeJS</a>)</li>
-		<li>no global namespace pollution(only one object is global - Seek)</li>
+		<li>Views(based on <a href="https://github.com/visionmedia/ejs">ejs</a>)</li>
+		<li>basic javascript class system</li>
+		<li>no global namespace pollution(only one object is global - Packagr, which adds the possibility to load different modules from a specific location)</li>
                 <li>Error handling</li>
 		<li>and more to come...</li>
 	</ul>
@@ -37,8 +37,7 @@
 	</p>
 	
 	<ul>
-		<li>Task-Joose-NodeJS - <a href="https://github.com/SamuraiJack/Task-Joose-NodeJS/">homepage</a></li>
 		<li>Connect - <a href="https://github.com/senchalabs/Connect">homepage</a></li>
-		<li>eco - <a href="https://github.com/sstephenson/eco">homepage</a></li>
+		<li>ejs - <a href="https://github.com/visionmedia/ejs">homepage</a></li>
 	</ul>
 </div>
