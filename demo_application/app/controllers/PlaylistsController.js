@@ -14,13 +14,13 @@ var PlaylistsController = Klass({
 			// Renders a view; Layout false
 			//this.render('playlists/list.html');
 			
-			// Renders a sintrg; Layout false
+			// Renders a string; Layout false
 			//this.render({ what: 'de-te-n'});
 			
 			// Renders a sintrg; Layout true
 			//this.render({ what: 'de-te-n', layout: true});
 			
-			// Renders a string directly to response; the content-type is html by default and could be overwritten
+			// Renders a string directly to response; the content-type is html by default but could be overwritten
 			//this.renderToResponse('<?xml version="1.0"?><note><to>Tove</to><</note>', 'xml');
 		},
 		
