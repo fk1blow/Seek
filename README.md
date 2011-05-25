@@ -45,7 +45,7 @@
         <h2>SEEKing COLLABORATION</h2>
 	
 	<p>
-		If you want to help or just want to mess around with Seek please contact me - i would be very happy to know that someone is interested in Seek.
+		If you want to help or just want to mess around with Seek please contact me - i would be very happy to know that someone is interested in this project.
 	</p>
 
 </div>
