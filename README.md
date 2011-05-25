@@ -40,4 +40,12 @@
 		<li>Connect - <a href="https://github.com/senchalabs/Connect">homepage</a></li>
 		<li>ejs - <a href="https://github.com/visionmedia/ejs">homepage</a></li>
 	</ul>
+        
+        
+        <h2>SEEKing COLLABORATION</h2>
+	
+	<p>
+		If you want to help or just want to mess around with Seek please let me know, i would be very happy to collabortate.
+	</p>
+
 </div>
