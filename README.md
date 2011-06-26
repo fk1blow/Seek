@@ -22,7 +22,6 @@
 		<li>and more to come...</li>
 	</ul>
 	
-	
 	<h2>INSTALLATION</h2>
 	
 	<p>
